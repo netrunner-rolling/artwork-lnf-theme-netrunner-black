@@ -7,6 +7,11 @@ Standards-Version: 3.7.2
 
 Package: artwork-lnf-theme-netrunner-black
 Architecture: all
-Depends: plasma-widget-volumewin7mixer, artwork-wallpapers-netrunner-desktop
+Depends: artwork-icons-obsidian,
+         artwork-wallpapers-netrunner-desktop,
+         aurorae-theme-forman,
+         desktop-theme-breeze-alphablack,
+         plasma-widget-volumewin7mixer,
+         qt5-style-kvantum
 Description: Look and Feel packages
   This package provides the black look and feel package for Netrunner.
