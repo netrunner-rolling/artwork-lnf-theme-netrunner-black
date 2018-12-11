@@ -1,0 +1,12 @@
+Source: artwork-lnf-theme-netrunner-black
+Section: admin
+Priority: optional
+Maintainer: Leszek Lesner <leszek@zevenos.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.7.2
+
+Package: artwork-lnf-theme-netrunner-black
+Architecture: all
+Depends: plasma-widget-volumewin7mixer, artwork-wallpapers-netrunner-desktop
+Description: Look and Feel packages
+  This package provides the black look and feel package for Netrunner.
