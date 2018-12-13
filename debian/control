@@ -10,6 +10,7 @@ Architecture: all
 Depends: artwork-icons-obsidian,
          artwork-wallpapers-netrunner-desktop,
          aurorae-theme-forman,
+         blackbird-gtk-theme,
          desktop-theme-breeze-alphablack,
          plasma-widget-volumewin7mixer,
          qt5-style-kvantum
