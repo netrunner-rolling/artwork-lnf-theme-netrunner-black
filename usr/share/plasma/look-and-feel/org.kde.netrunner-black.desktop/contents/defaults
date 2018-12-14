@@ -3,6 +3,7 @@ ColorScheme=KvantumAlt
 
 [kdeglobals][KDE]
 widgetStyle=kvantum
+SingleClick=false
 
 [kdeglobals][Icons]
 Theme=Obsidian
