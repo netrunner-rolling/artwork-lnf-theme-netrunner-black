@@ -20,3 +20,7 @@ name=breeze-alphablack
 [kwinrc][org.kde.kdecoration2]
 library=org.kde.kwin.aurorae
 theme=__aurorae__svg__FormaN
+
+[ksplashrc][KSplash]
+Engine=none
+Theme=None
